@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: #FFFECB;
+    background-color: #FFFFFF;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,7 +47,7 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #FFFECB;
+    background-color: #FFFFFF;
     border: none;
     border-radius: 5px;
     padding: 3px;
